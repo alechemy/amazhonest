@@ -1,0 +1,12 @@
+{
+  "name": "amazhonest",
+  "version": "0.0.1",
+  "description": "Replace Amazon propaganda banners with facts worth knowing about the company.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
