@@ -1,10 +1,12 @@
 {
   "name": "amazhonest",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": "Alec Custer",
   "description": "Replace Amazon propaganda banners with facts worth knowing about the company.",
   "scripts": {
     "dev": "webextension-toolbox dev",
-    "build": "webextension-toolbox build"
+    "build-chrome": "webextension-toolbox build chrome",
+    "build": "webextension-toolbox build chrome && webextension-toolbox build firefox && webextension-toolbox build safari && cp ./safari-install.sh ./dist/safari"
   },
   "devDependencies": {
     "webextension-toolbox": "latest"
