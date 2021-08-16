@@ -1,6 +1,6 @@
 # amazhonest
 
-A simple extension that replaces Amazon.com propaganda banners with facts worth knowing about the company.
+A simple browser extension that replaces Amazon.com propaganda banners with facts worth knowing about the company.
 
 I built this using [webextension-toolbox](https://github.com/HaNdTriX/webextension-toolbox).
 
