@@ -17,7 +17,7 @@ I built this using [webextension-toolbox](https://github.com/HaNdTriX/webextensi
 ### Chrome
 
 - Navigate to `chrome://extensions` in Chrome and enable Developer Mode.
-- Download `amazhonest.<version>.chrome.crx` from the Releases page.
+- Download `amazhonest.<version>.chrome.crx.zip` from the Releases page and unzip it.
 - Drag the file into the Extensions page in Chrome.
 
 ### Firefox
